@@ -105,8 +105,8 @@ Follow these steps to build, run, and stop the containers.
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-repository-url.git
-cd your-repository-directory
+git clone https://github.com/jude-san/TMU.git
+cd TMU-app/dockfiles
 ```
 
 #### Step 2: Build the containers
