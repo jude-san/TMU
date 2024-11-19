@@ -112,13 +112,13 @@ cd TMU-app/dockfiles
 #### Step 2: Build the containers
 
 ```bash
-docker-compose build
+docker compose build
 ```
 
 #### Step 3: Run the containers
 
 ```bash
-docker-compose up
+docker compose up
 ```
 
 This will start the containers and run the services as defined in the `docker-compose.yml`.
@@ -126,7 +126,7 @@ This will start the containers and run the services as defined in the `docker-co
 #### Step 4: Stop the containers
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 This command will stop and remove all the containers.
